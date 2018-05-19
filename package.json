@@ -1,0 +1,22 @@
+{
+  "name": "js-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djangofs/js-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djangofs/js-lessons/issues"
+  },
+  "homepage": "https://github.com/Djangofs/js-lessons#readme",
+  "dependencies": {
+    "jest": "^22.4.4"
+  }
+}
